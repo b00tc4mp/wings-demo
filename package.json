@@ -12,6 +12,6 @@
     "vite": "^4.4.5"
   },
   "dependencies": {
-    "@b00tc4mp/wings": "latest"
+    "@b00tc4mp/wings": "^2.0.1"
   }
 }

@@ -21,8 +21,8 @@ class Counter extends Component {
         this.on('MouseLeave', () => utils.hidePointer())
     }
 
-    render(context) {
-        super.render(context)
+    paint(context) {
+        super.paint(context)
 
         context.fillStyle = 'white'
         context.font = this.textHeight + 'px verdana'
